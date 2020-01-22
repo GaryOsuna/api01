@@ -6,11 +6,12 @@ verify_ssl = true
 [dev-packages]
 
 [packages]
-django = "*"
+django = "==2.0.13"
 python-decouple = "*"
 djangorestframework = "*"
 pillow = "*"
 djangorestframework-jwt = "*"
+2 = "*"
 
 [requires]
 python_version = "3.6"
